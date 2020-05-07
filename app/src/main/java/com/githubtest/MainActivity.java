@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e(TAG, "onCreate: ");
         Log.e(TAG, "onStop");
+        Log.e(TAG, "onResume: ");
     }
 }
