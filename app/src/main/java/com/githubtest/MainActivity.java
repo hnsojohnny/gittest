@@ -16,5 +16,8 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG, "onCreate: ");
         Log.e(TAG, "onStop");
         Log.e(TAG, "onResume: ");
+        Log.e(TAG, "onStart " );
+        Log.e(TAG, "onResume " );
+        Log.e(TAG, "onPause " );
     }
 }
